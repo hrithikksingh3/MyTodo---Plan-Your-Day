@@ -5,7 +5,7 @@
 ---
 
 ## **Live Demo**  
-🔗 **Check out the live version**: [MyTodo](#)
+🔗 **Check out the live version**: [MyTodo](https://mytodo-0r0c.onrender.com)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### **1️⃣ Clone the Repository**  
 ```
-git clone https://github.com/hrithikksingh3/mytodo.git
+git clone https://github.com/hrithikksingh3/mytodo---Plan-Your-Day.git
 cd mytodo
 ```
 
